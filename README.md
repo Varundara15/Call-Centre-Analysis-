@@ -14,18 +14,18 @@ Microsoft Power BI
 Steps Involved:
 
 Data Importation:
-Load the raw call center data into Microsoft Power BI.
+Loaded the raw call center data into Microsoft Power BI.
 
 Data Cleaning:
-Clean the data to remove inconsistencies, handle missing values, and ensure accuracy.
+Cleaned the data to remove inconsistencies, handle missing values, and ensure accuracy.
 
 Data Processing:
 Process the cleaned data to calculate relevant metrics and prepare it for analysis.
 
 Dashboard Creation:
-Design and develop an interactive dashboard in Power BI to visualize the KPIs.
+Designed and developed an interactive dashboard in Power BI to visualize the KPIs.
 
 Insights & Analysis:
-Analyze the visualized data to identify trends, patterns, and areas for improvement.
+Analyzed the visualized data to identify trends, patterns, and areas for improvement.
 
 
